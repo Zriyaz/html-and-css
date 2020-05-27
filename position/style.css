@@ -1,0 +1,26 @@
+div{
+  border: 3px solid yellow;
+  background: green;
+  margin-top: 40px;
+  position: relative;
+}
+.one{
+  background: rgb(0, 255, 170);
+  color: palevioletred;
+  /*position: relative;
+  bottom:100px;
+  top: 200px;
+  right: 40px;*/
+}
+.two{
+  background: red;
+  color: white;
+}
+.spacial{
+  background: navy;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top:0;
+  left: 0;
+}

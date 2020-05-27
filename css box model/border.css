@@ -1,0 +1,31 @@
+*{
+  margin:0;
+}
+
+h1 ,p{
+   color:white;
+}
+h1{
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+  border-style: solid;
+  border-color: green;
+  border-width: 10px;
+}
+p{
+  background: blue;
+  /*padding: 40px;
+  padding: 30px 60px;*/
+  padding:  5px 40px 20px 60px;
+  margin: 40px 40px 60px 100px;
+  border: dashed 1rem yellow;
+}
+h3{
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+  border-bottom-style:dotted;
+  border-bottom-color:gold;
+  border-bottom-width: 10px;
+}

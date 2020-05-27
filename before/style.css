@@ -1,0 +1,19 @@
+p::before{
+  content: 'hello there ';
+  font-weight: bold;
+  color: red;
+  display: block;
+  background: black;
+  font-size: 2rem;
+}
+
+p::after{
+  content: '';
+  font-weight: bold;
+  display: block;
+  height: 2rem;
+  width: 100%;
+  background: black;
+  color: green;
+  font-size: 1rem;
+}

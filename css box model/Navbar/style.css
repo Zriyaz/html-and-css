@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+ul li a{
+  color:indigo;
+  text-decoration: none;
+  letter-spacing: 2px;
+  background: tomato;
+  display: block;
+  padding:5px; 
+}

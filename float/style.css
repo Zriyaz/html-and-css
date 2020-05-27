@@ -1,0 +1,13 @@
+.myimg{
+  border: 5px solid palevioletred;
+  padding: 10px;
+}
+.one{
+  float: right;
+}
+.two{
+  float: left;
+}
+p{
+  clear: both;
+}

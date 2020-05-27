@@ -1,0 +1,31 @@
+
+/* Block: Always start a new line and span full width 
+Inline:   Dones not start new line and span only content*/
+.block{
+  background:#8d2245;
+  color:darkblue;
+  display: block;
+  display: inline;
+  
+}
+.inline{
+  background: green;
+  color: white;
+  display: inline;
+  display: block;
+} 
+
+.block{
+  background: #8d2245;
+  color:white;
+  width:300px;
+  margin: 1rem uto; 
+
+}
+.inline{
+  background: pink;
+  color: olivedrab;
+}
+body{
+  text-align: center;
+} 

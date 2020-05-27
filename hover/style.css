@@ -1,0 +1,15 @@
+div:hover{
+  color:green;
+}
+.header:hover{
+  color:blue;
+  letter-spacing: 5px;
+  background-color: yellow;
+}
+
+a:hover{
+  text-decoration: none;
+  font-size: 10px;
+  background: red;
+  color:white;
+}

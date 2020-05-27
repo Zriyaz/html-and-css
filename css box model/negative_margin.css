@@ -1,0 +1,17 @@
+h1,p{
+  background-color:white;
+}
+h1{
+  background:red;
+  padding: 10px;
+  border: solid 10px green;
+  border-radius: 150px;
+
+}
+p{
+  background: blue;
+  padding: 15px;
+  border: dotted 10px yellow;
+  border-radius: 50%;
+  margin-top:-30px; /* negative margin*/ 
+}

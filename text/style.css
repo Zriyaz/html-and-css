@@ -1,0 +1,50 @@
+/* .one{
+  font-weight:900;
+  font-weight:bold
+}
+.two{
+  font-weight:lighter;
+  font-style:oblique;
+
+}
+.sub-heading{
+  font-style:italic;
+} 
+body{
+  text-align:center;
+}
+.one{
+
+}
+.two{
+  text-align: left;
+  text-indent:50px;
+}
+.sub-heading{
+
+}
+.main-heading{
+ text-align: right;
+}*/
+body{
+  line-height:30px;
+}
+h1{
+  font-size:40px;
+  text-decoration:underline;
+  
+}
+.one{
+  letter-spacing:5px;
+  text-transform:uppercase;
+}
+.two{
+  word-spacing:15px;
+}
+a{
+  font-size:3rem;
+  text-decoration:none;
+}
+.three{
+  text-transform:capitalize;
+}

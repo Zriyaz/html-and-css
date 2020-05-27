@@ -1,0 +1,21 @@
+
+*{
+  margin:0;
+}
+
+h1 ,p{
+   color:white;
+}
+h1{
+  background-color: red;
+  padding: 20px;
+  margin: 20px;
+  border-style: solid 2px rgb(46, 245, 46);
+}
+p{
+  background: blue;
+  /*padding: 40px;
+  padding: 30px 60px;*/
+  padding:  5px 40px 20px 60px;
+  margin: 40px 40px 60px 100px;
+}

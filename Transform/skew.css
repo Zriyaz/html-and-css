@@ -1,0 +1,18 @@
+div{
+  width:150px;
+  height: 150px;
+  display: inline-block;
+}
+.one{
+  background: red;
+  transform: skewX(40deg)
+}
+.two{
+  background: blue;
+  transform: skewY(70deg)
+  
+}
+.three{
+  background: yellow;
+  transform: skew(50deg) 
+}

@@ -1,0 +1,17 @@
+
+h1 ,p{
+   color:white;
+}
+h1{
+  background-color: red;
+  padding-top: 40px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+p{
+  background: blue;
+  /*padding: 40px;
+  padding: 30px 60px;*/
+  padding:  5px 40px 20px 60px;
+}
